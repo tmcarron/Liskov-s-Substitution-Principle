@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\Liskov Substitution Principle.exe.config
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\Liskov Substitution Principle.exe
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\bin\Debug\Liskov Substitution Principle.pdb
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\Liskov Substitution Principle.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\Liskov Substitution Principle.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\Liskov Substitution Principle.exe
+C:\Users\tmcar\source\repos\Liskov Substitution Principle\Liskov Substitution Principle\obj\Debug\Liskov Substitution Principle.pdb
